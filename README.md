@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tomáš Najman</h1>
 <h3 align="center">Student spsmb 💪</h3>
 
-- Learning ** java, java script **
-
-- ⚡ Fun fact **I'm behind you 👀**
+- Learning **Python **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
